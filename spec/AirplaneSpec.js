@@ -17,5 +17,4 @@ describe('Airplane', function() {
   it('has a isFlying attribute', function(){
     expect(testAirplane.isFlying).toBeDefined();
   });
-
 });
